@@ -19,7 +19,7 @@
 | [1N4148 diodes](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) | key matrix ghosting prevention. | 9 | $0.11 | $0.99 | [DigiKey](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) |
 | [Custom PCB (2 layer, 70x70mm, 5 pcs)](https://cart.jlcpcb.com/quote) | macropad board. | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote) |
 | **Parts subtotal** | — | — | — | **$20.34** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$20.34** | — |
+| **Tax & shipping** | — | — | — | **$17.15** | — |
+| **Total** | — | — | — | **$37.49** | — |
 
-$9.66 left of the tier's funding.
+**$7.49 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
