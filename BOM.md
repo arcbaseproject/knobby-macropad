@@ -8,7 +8,7 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Warm-up | Tier 1 | $30.00 |
+| Warm-up | Tier 2 | $65.00 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@
 | [1N4148 diodes](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) | key matrix ghosting prevention. | 9 | $0.11 | $0.99 | [DigiKey](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) |
 | [Custom PCB (2 layer, 70x70mm, 5 pcs)](https://cart.jlcpcb.com/quote) | macropad board. | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote) |
 | **Parts subtotal** | — | — | — | **$20.34** | — |
-| **Tax & shipping** | — | — | — | **$17.15** | — |
-| **Total** | — | — | — | **$37.49** | — |
+| **Tax & shipping** | — | — | — | **$27.15** | — |
+| **Total** | — | — | — | **$47.49** | — |
 
-**$7.49 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$17.51 left of the tier's funding.
